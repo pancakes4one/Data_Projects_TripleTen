@@ -8,3 +8,5 @@ Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 | 2 | Instacart | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers. |
 | 3 | Plan Profitability Analysis | Conducted a comparative revenue analysis of two prepaid telecom plans using customer usage data. |
 | 4 | Cloud-Based Web Application Deployment | Built and deployed a web application to a cloud platform. |
+
+✨ I’m currently rebuilding my portfolio to better reflect my work. Check back soon!
