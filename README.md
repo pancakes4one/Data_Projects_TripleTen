@@ -25,7 +25,3 @@ Applied machine learning, statistical modeling, NLP, time series forecasting, an
 | Instacart Customer Behavior Analysis | Multi-table data wrangling · Customer purchase pattern analysis |
 | Television Ratings & Engagement Analysis | Correlation analysis · Business assumption validation |
 | Computer Vision: Age Dataset EDA | Image dataset exploration · Distribution analysis for CNN preparation |
-
----
-
-✨ Portfolio currently being refined to highlight production-ready structure and clearer business impact.
