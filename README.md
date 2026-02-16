@@ -1,7 +1,6 @@
 # 📊 Data Science Portfolio
 
-Applied machine learning, statistical modeling, NLP, time series forecasting, and production deployment projects.
-
+Machine learning, statistical modeling, NLP, time series forecasting, and production deployment projects focused on business impact and real-world decision support.
 ---
 
 ## ⭐ Featured Projects
