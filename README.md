@@ -1,4 +1,4 @@
-# 📊 Data Science Portfolio
+# Data Science Portfolio
 
 Machine learning, statistical modeling, NLP, time series forecasting, and production deployment projects focused on business impact and real-world decision support.
 ---
