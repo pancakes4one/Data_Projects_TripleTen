@@ -1,12 +1,15 @@
-# TripleTen_projects
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+| Project                                                        | Focus                                                 | Impact                                                                                                                                                                                         |
+| -------------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Customer Churn Prediction (Beta Bank)**                      | Supervised ML · Class Imbalance · Model Optimization  | Built and tuned classification models to predict churn, optimizing for F1 and comparing against AUC-ROC. Implemented multiple imbalance-handling techniques to improve real-world performance. |
+| **Oil Well Profit Optimization**                               | Regression · Bootstrapping · Risk Modeling            | Developed profit prediction model for new drilling regions. Applied bootstrapping to calculate 95% confidence intervals and quantified risk of loss to support business decision-making.       |
+| **Taxi Demand Forecasting**                                    | Time Series · Feature Engineering · RMSE Optimization | Built hourly demand forecasting models with lag features and hyperparameter tuning. Achieved required RMSE performance threshold.                                                              |
+| **IMDb Review Sentiment Analysis**                             | NLP · Text Vectorization · Classification             | Trained and evaluated multiple sentiment classification models (logistic regression, boosting). Achieved F1 ≥ 0.85 on test data.                                                               |
+| **Interactive Vehicle Sales Dashboard (Streamlit Deployment)** | Data App · Visualization · Cloud Deployment           | Designed and deployed an interactive analytics dashboard using Streamlit and Plotly. Managed full Git-based workflow and cloud deployment.                                                     |
 
-
-| Project number | Title | Description |
-| :-----------: | ----------- |----------- |
-| 1 | Television Ratings and User Engagement Analysis| Analyzed IMDb data to test whether highly rated TV shows from the “Golden Age” also received the most votes, validating or disproving the initial assumption. |
-| 2 | Instacart | The project task was to prepare a report that gives insight into the shopping habits of Instacart customers. |
-| 3 | Plan Profitability Analysis | Conducted a comparative revenue analysis of two prepaid telecom plans using customer usage data. |
-| 4 | Cloud-Based Web Application Deployment | Built and deployed a web application to a cloud platform. |
-
-✨ I’m currently rebuilding my portfolio to better reflect my work. Check back soon!
+| Project                                  | Focus                                                                       |
+| ---------------------------------------- | --------------------------------------------------------------------------- |
+| Video Game Sales Forecasting             | Market trend analysis · Platform lifecycle modeling · Regional segmentation |
+| Telecom Plan Profitability Analysis      | Statistical testing · Revenue modeling · Hypothesis validation              |
+| Instacart Customer Behavior Analysis     | Multi-table data wrangling · Customer purchase pattern analysis             |
+| Television Ratings & Engagement Analysis | Correlation analysis · Business assumption validation                       |
+| Computer Vision: Age Dataset EDA         | Image dataset exploration · Distribution analysis for CNN preparation       |
