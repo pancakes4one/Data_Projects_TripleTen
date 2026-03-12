@@ -25,4 +25,4 @@ Machine learning, statistical modeling, NLP, time series forecasting, and produc
 | Television Ratings & Engagement Analysis | Correlation analysis · Business assumption validation |
 | Computer Vision: Age Dataset EDA | Image dataset exploration · Distribution analysis for CNN preparation |
 
-✨ I’m currently rebuilding my portfolio to better reflect my work. Check back soon!
+✨ I’m currently rebuilding my portfolio to better reflect my work!
